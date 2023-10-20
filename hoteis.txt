@@ -1,0 +1,32 @@
+--Hoteis
+
+- Booking.com
+- Airbnb
+- Trivago
+- Hurb
+- Hoteis.com
+
+-- Biblioteca
+- BeautifulSoup
+
+-- Cidades
+- Rio de Janeiro -> Copacabana 
+- Fernando de Noronha 
+- Gramado
+- Jericoacoara
+- Buzios
+- Balneário Camboriú
+
+-- Analises a serem feitas
+- A melhor epoca pra reservar datas nas localidades
+- Comparar as acomadações (casa, hostel e hotel)
+- 
+
+- ver a data Data de natal ao ano novo
+- casal (nós)
+- tipo de quarto
+- quantidade de estrelas do quarto
+
+
+-- Apresentação final (terminar até dia 30/11/2023)
+- 15/12/2023
